@@ -1,4 +1,4 @@
-/* ===== GLOBAL ===== */
+
 * {
   margin: 0;
   padding: 0;
@@ -12,7 +12,7 @@ body {
   padding: 30px 10px;
 }
 
-/* ===== PAGE WRAPPER ===== */
+
 article#resume {
   max-width: 720px;
   margin: 0 auto;
@@ -22,7 +22,7 @@ article#resume {
   overflow: hidden;
 }
 
-/* ===== HEADER ===== */
+
 header#top-header {
   background-color: #3b2a1a;
   color: #f5e6d0;
@@ -67,7 +67,6 @@ header#top-header h2 {
   margin-bottom: 16px;
 }
 
-/* ===== NAV ===== */
 nav#jump-nav {
   background-color: #5c3d1e;
   padding: 10px 0;
@@ -97,7 +96,7 @@ nav#jump-nav td a:hover {
   text-decoration: underline;
 }
 
-/* ===== CONTACT BAR ===== */
+
 address#contact-bar {
   background-color: #f5ebe0;
   border-bottom: 1px solid #d4a96a;
@@ -118,7 +117,7 @@ address#contact-bar a:hover {
   text-decoration: underline;
 }
 
-/* ===== SECTION HEADINGS ===== */
+
 section.rs {
   padding: 18px 28px 14px;
   border-bottom: 1px solid #e2d0bc;
@@ -140,7 +139,7 @@ section.rs h2 {
   border-radius: 2px;
 }
 
-/* ===== EXPERIENCE CARDS ===== */
+
 article.exp-card {
   margin-bottom: 12px;
 }
@@ -194,7 +193,7 @@ ul.bullet-list li::before {
   color: #b5895a;
 }
 
-/* ===== EDUCATION TABLE ===== */
+
 table#edu-table {
   width: 100%;
   border-collapse: collapse;
@@ -222,7 +221,6 @@ table#edu-table tr:last-child td {
   border-bottom: none;
 }
 
-/* ===== SKILLS details ===== */
 details {
   margin-bottom: 8px;
   border-left: 3px solid #d4a96a;
@@ -269,7 +267,7 @@ details ul li::before {
   font-size: 8px;
 }
 
-/* ===== LANGUAGES & HOBBIES ===== */
+
 table#lang-table {
   border-collapse: collapse;
   font-size: 12.5px;
@@ -294,7 +292,6 @@ ol.hobby-list {
   line-height: 1.8;
 }
 
-/* ===== FOOTER ===== */
 footer#resume-footer {
   background-color: #3b2a1a;
   color: #c8a882;
